@@ -1,4 +1,4 @@
-# NurseryEcommerceProject
+# LeafNow Tie Internship Project
 
 1) Extract the webProject folder in www. The code files and the sql script are shown.images are in the assets folder. css is in the css folder.
 
